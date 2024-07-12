@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+ font-family: 'Prata', sans-serif;
+
+}
+
+
+@media screen {
+  body {
+    background-color: #F0F0F0;
+  }
+  
+}
+
